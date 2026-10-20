@@ -12,24 +12,24 @@
 
 ---
 
-- 👨‍💻 Como autodidacta, estoy constantemente descubriendo y aprendiendo nuevas tecnologias para mejorar como desarrollador.
-- 💬 Entusiasta de Linux y el Software Libre
-- 🌱 Aprendiendo sobre Infraestructura y Backend
+- Como autodidacta, estoy constantemente descubriendo y aprendiendo nuevas tecnologias para mejorar como desarrollador.
+- Entusiasta de Linux y el Software Libre
+- Aprendiendo sobre Infraestructura y Backend
 
 ## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Languages
+#### Languages
 
 [![Languages](https://skillicons.dev/icons?i=js,html,css,cpp,php)](https://skillicons.dev)
 
-#### 🔧 Tools
+#### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,docker,nodejs,linux,arch,vscode,mysql,neovim)](https://skillicons.dev)
 
 
 
 ---
 
-### 🔗 &nbsp;Contact Me
+### &nbsp;Contact Me
 
 <div align="center">
 <a href="mailto:alejopek62@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
